@@ -1,0 +1,2 @@
+add_executable(dynamic_strategy dynamic_strategy.cpp)
+add_executable(static_strategy static_strategy.cpp)
